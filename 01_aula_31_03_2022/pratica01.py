@@ -1,0 +1,7 @@
+nome=input('digite nome:' )
+idade=input('idade: ')
+print('nome =',nome,'idade=',idade)
+print('nome =',nome)
+print('idade=',idade)
+print('nome =',nome, end='')
+print('idade=',idade)
